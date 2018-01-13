@@ -5,9 +5,7 @@ import android.os.Bundle;
 
 public class MainActivity extends AppCompatActivity {
 
-    /**
-     * 我有只小泰迪，她又两只小兔子
-     */
+    //我有只小泰迪，她又两只小兔子     拉啦阿拉啦
     @Override
     protected void onCreate(Bundle savedInstanceState) {
         super.onCreate(savedInstanceState);
